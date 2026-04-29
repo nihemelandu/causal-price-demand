@@ -6,7 +6,7 @@
 
 This document records the findings of the Data Understanding phase (CRISP-DM Phase 2) for the causal price elasticity estimation project. It answers the central question this iteration set out to address:
 
-> *Is FreshRetailNet-50K fit for purpose for causal price elasticity estimation at the SKU level using Double/Debiased Machine Learning (DML)?*
+> *Is FreshRetailNet-50K suitable for estimating the causal effect of price on SKU-level demand using Double/Debiased Machine Learning (DML)?*
 
 The answer, supported by the evidence below, is **yes — with specific adaptations required.**
 
